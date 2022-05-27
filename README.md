@@ -52,6 +52,8 @@ exports and imports.
   </a>
 </p>
 
+###I have tried to add laravel batch for handling jobs (for tracking batch progress and getting better stats)
+
 ```php
 
     public function export()
